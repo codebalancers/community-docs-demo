@@ -1,14 +1,14 @@
 baseURL = "/"
 
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "de-de"
+DefaultContentLanguage = "de"
 title = "Codebalancers Demo Dokumentation"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
