@@ -1,6 +1,6 @@
 +++
 title = "Berechtigungen"
 description = ""
-weight = 2
+weight = 10
 +++
 

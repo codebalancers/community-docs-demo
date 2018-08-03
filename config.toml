@@ -43,7 +43,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-bookmark'></i> <label>App</label>"
-identifier = "hugodoc"
+identifier = "app"
 url = "https://test.codebalancers.de/"
 weight = 20
 

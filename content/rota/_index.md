@@ -2,7 +2,7 @@
 title = "Dienstplan"
 description = ""
 weight = 1
-alwaysopen = true
+alwaysopen = false
 +++
 
 Beschreibung des Dienstplanes
